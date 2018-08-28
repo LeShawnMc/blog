@@ -1,2 +1,1 @@
-'Blog' 
-"# blog" 
+Personal Blog 
